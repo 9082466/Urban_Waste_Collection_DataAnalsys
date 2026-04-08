@@ -1,0 +1,9 @@
+,odds_ratio,ci_low,ci_high,p_value
+Intercept,28.3813,27.484,29.308,0.0
+log_units,0.1786,0.1756,0.1816,0.0
+C(Municipality)[T.Kitchener],0.6668,0.6451,0.6892,0.0
+C(Municipality)[T.Woolwich],0.6602,0.6217,0.701,0.0
+C(Municipality)[T.Waterloo],0.783,0.752,0.8152,0.0
+C(Municipality)[T.North Dumfries],0.7,0.6418,0.7636,0.0
+C(Municipality)[T.Wilmot],1.3643,1.2589,1.4787,0.0
+C(Municipality)[T.Wellesley],1.0386,0.9317,1.1578,0.4941
